@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "120301-19_kna",
+    "password": "SrdF7LwWT5",
+    "database": "120301-19_kna",
+    "host": "51.250.126.17",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
