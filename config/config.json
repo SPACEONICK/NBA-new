@@ -3,7 +3,7 @@
     "username": "120301-19_kna",
     "password": "SrdF7LwWT5",
     "database": "120301-19_kna",
-    "host": "51.250.126.17",
+    "host": "84.201.184.150",
     "dialect": "mysql"
   },
   "test": {
